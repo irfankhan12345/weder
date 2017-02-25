@@ -1,0 +1,18 @@
+{
+  "name": "weder",
+  "version": "1.0.0",
+  "description": "A Node.js command line app for taking notes",
+  "author": "Sikender Khan <sikendermkhan@gmail.com>",
+  "repository": "sikender/weder",
+  "homepage": "https://github.com/sikender/weder#readme",
+  "license": "MIT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.15.3",
+    "dotenv": "^4.0.0",
+    "yargs": "^6.6.0"
+  }
+}
